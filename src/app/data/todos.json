@@ -1,20 +1,16 @@
 {
   "tasks": [
     {
-      "text": "プログラミング",
-      "id": "2"
+      "id": "3ec619f8-d1fe-4bd1-b019-1539d05738cc",
+      "text": "it"
     },
     {
-      "id": "3",
-      "text": "ジム"
+      "id": "54d1d3a3-79f1-4291-be5b-269bca32f31d",
+      "text": "kita---"
     },
     {
-      "text": "仕事",
-      "id": "446381c2-8fab-4981-a0de-6f634c92c084"
-    },
-    {
-      "text": "カフェ",
-      "id": "5d6d68d1-7ad9-4f0e-9fec-d90345373e54"
+      "id": "57678d9a-97e0-4fbf-8b36-d3e48f948ccc",
+      "text": "ugoitayo"
     }
   ]
 }
